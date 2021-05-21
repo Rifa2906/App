@@ -19,7 +19,7 @@
             <thead class="bg-primary text-white">
                 <tr>
                     <th>Name Moch Rifa maulana N</th>
-                    <th>Position</th>
+                    <th>Position Moch Rifa Maulana N</th>
                     <th>Office</th>
                     <th>Age</th>
                     <th>Start date</th>
