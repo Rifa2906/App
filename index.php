@@ -18,7 +18,7 @@
         <table id="tables" class="table table-striped table-bordered" style="width:100%">
             <thead class="bg-primary text-white">
                 <tr>
-                    <th>Name</th>
+                    <th>Name Moch Rifa maulana N</th>
                     <th>Position</th>
                     <th>Office</th>
                     <th>Age</th>
